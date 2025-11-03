@@ -1,6 +1,9 @@
 # LOGISTICS PERFORMANCE ANALYSIS
 
-<img width="2000" height="2000" alt="Blank 2 Grids Collage" src="https://github.com/user-attachments/assets/4e613845-70bb-4f22-a069-6abeb36a6e77" />
+<a href="https://app.powerbi.com/groups/me/reports/274e63d8-506b-4990-b6f7-7a79710137fc?experience=power-bi" target="_blank">
+  <img width="2000" height="2000" alt="Blank 2 Grids Collage" src="https://github.com/user-attachments/assets/4e613845-70bb-4f22-a069-6abeb36a6e77" />
+</a>
+
 
 ### Introduction
 This project centers on analyzing logistics performance for a transportation firm to optimize supply chain operations, reduce costs, and enhance delivery reliability. With increasing competition, fluctuating fuel prices, and customer demands for faster service, understanding shipment patterns is essential for maintaining business sustainability and competitiveness.
